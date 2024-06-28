@@ -1,0 +1,43 @@
+.color-primary{
+    color:blueviolet;
+}
+.font-30{
+    font-size: 30px;
+}
+.font-style{
+    font-style: italic;
+}
+.select-style1{
+    color: blue; 
+    font-size: large; 
+    height: 30px
+}
+
+.tb-head > tr > td{
+    border: 1px solid #DDD;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.tb-body > tr > td{
+    border: 1px solid #DDD;
+}
+
+p{
+    /*background-color:aliceblue;*/
+    color:cornflowerblue;
+}
+
+.class1{
+    background-color: floralwhite;
+    color:crimson;
+}
+
+#p1{
+    color:aqua;
+}
+
+.tb td{
+    font-style: italic;
+    color: darkgreen;
+}
